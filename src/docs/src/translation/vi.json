@@ -2,7 +2,6 @@
   "__name": "Vietnamese",
   "__code": "VI",
   "__direction": "ltr",
-  "__status": "",
   "Tailwind CSS Components": "Các thành phần Tailwind CSS",
   "cta-1": "Xem các thành phần",
   "cta-1-mobile": "Các thành phần",
@@ -92,7 +91,6 @@
   "Navbar": "Thanh điều hướng",
   "Pagination": "Phân trang",
   "Steps": "Bước",
-  "Tab": "",
   "Mockup": "Mockup",
   "Code": "Mã",
   "Phone": "Điện thoại",
@@ -465,6 +463,5 @@
   "Sponsors": "Nhà tài trợ",
   "Use daisyUI from CDN": "Sử dụng daisyUI từ CDN",
   "How to use daisyUI from a CDN?": "Làm thế nào để sử dụng daisyUI từ một CDN?",
-  "etc.": "v.v.",
-  "": ""
+  "etc.": "v.v."
 }

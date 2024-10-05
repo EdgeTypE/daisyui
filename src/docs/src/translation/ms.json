@@ -2,7 +2,6 @@
   "__name": "Melayu",
   "__code": "MS",
   "__direction": "ltr",
-  "__status": "",
   "Tailwind CSS Components": "Komponen Tailwind CSS",
   "cta-1": "Lihat semua komponen",
   "cta-1-mobile": "Komponen",
@@ -286,8 +285,6 @@
   "daisyUI Theme Generator": "Penjana Tema daisyUI",
   "You can add your custom themes to <span class='badge badge-outline'>tailwind.config.js</span> file in <span class='badge badge-outline'>daisyui > themes</span> array. On this page, you can pick required color values and see how the components will look like with them.": "Anda boleh menambahkan tema tersuai anda pada fail <span class='badge badge-outline'>tailwind.config.js</span> dalam tatasusunan <span class='badge-outline'>daisyui > themes</span>. Pada halaman ini, anda boleh memilih nilai warna yang diperlukan dan melihat rupa komponen dengannya.",
   "You can also define optional colors to have more control on the color values (for example: the color of a button when it's focused on the color of the text on a button)": "Anda juga boleh menentukan warna pilihan untuk mempunyai lebih kawalan pada nilai warna (contohnya: warna butang apabila ia difokuskan pada warna teks pada butang)",
-  "Check out <a class='font-bold link' href='/docs/colors/'>colors page</a> to see all the color names you can use.": "Lihat <a class='font-bold link' href='/docs/colors/'>halaman warna</a> untuk melihat semua nama warna yang boleh anda gunakan.",
-  "Check out <a class='font-bold link' href='/docs/themes/'>themes page</a> to see all the CSS variables you can use to customize the design decision (example: border-radius, animations, etc.)": "Lihat <a class='font-bold link' href='/docs/themes/'>halaman tema</a> untuk melihat semua pembolehubah CSS yang boleh anda gunakan untuk menyesuaikan keputusan reka bentuk (contoh: border-radius, animations, dan lain-lain.)",
   "Randomize": "Rawak",
   "Reset": "Tetapkan semula",
   "Preview": "Pratonton",
@@ -313,7 +310,6 @@
   "The most popular": "Yang paling popular",
   "component library": "perpustakaan komponen",
   "for Tailwind CSS": "untuk Tailwind CSS",
-  "daisyUI adds component class names to Tailwind&nbsp;CSS<br /> so you can make beautiful websites <span class='border-b-2 border-base-content/20'>faster than ever.</span>": "daisyUI menambah nama kelas komponen pada Tailwind&nbsp;CSS<br /> supaya anda boleh membuat laman web yang cantik <span class='border-b-2 border-base-content/20'> dan lebih pantas berbanding sebelum ini.</span>",
   "don't re-invent <br/>the wheel <br/>every time": "jangan cipta semula <br/>roda <br/>setiap kali",
   "In a Tailwind CSS project, you need to write utility class names for every element. Thousands of class names just to style the most basic elements.": "Dalam projek Tailwind CSS, anda perlu menulis nama kelas utiliti untuk setiap elemen. Beribu-ribu nama kelas hanya untuk menggayakan elemen paling asas.",
   "instead of writing<br /> <span class='text-error'><span class='font-black'>100</span> class names</span>": "daripada menulis<br /> <span class='text-error'><span class='font-black'>100</span> nama kelas</span>",
@@ -466,5 +462,7 @@
   "Use daisyUI from CDN": "Use daisyUI from CDN",
   "How to use daisyUI from a CDN?": "How to use daisyUI from a CDN?",
   "etc.": "etc.",
-  "": ""
+  "Check out <a class='font-bold link' href='/docs/colors/'>colors page</a> to see all the color names you can use.": "Lihat <a class='font-bold link' href='/docs/colors/'>halaman warna</a> untuk melihat semua nama warna yang boleh anda gunakan.",
+  "Check out <a class='font-bold link' href='/docs/themes/'>themes page</a> to see all the CSS variables you can use to customize the design decision (example: border-radius, animations, etc.)": "Lihat <a class='font-bold link' href='/docs/themes/'>halaman tema</a> untuk melihat semua pembolehubah CSS yang boleh anda gunakan untuk menyesuaikan keputusan reka bentuk (contoh: border-radius, animations, dan lain-lain.)",
+  "daisyUI adds component class names to Tailwind&nbsp;CSS<br /> so you can make beautiful websites <span class='border-b-2 border-base-content/20'>faster than ever.</span>": "daisyUI menambah nama kelas komponen pada Tailwind&nbsp;CSS<br /> supaya anda boleh membuat laman web yang cantik <span class='border-b-2 border-base-content/20'> dan lebih pantas berbanding sebelum ini.</span>"
 }

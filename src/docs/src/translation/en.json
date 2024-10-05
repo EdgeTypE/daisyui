@@ -2,7 +2,6 @@
   "__name": "English",
   "__code": "EN",
   "__direction": "ltr",
-  "__status": "",
   "Tailwind CSS Components": "Tailwind CSS Components",
   "cta-1": "See components",
   "cta-1-mobile": "Components",
@@ -465,6 +464,5 @@
   "Sponsors": "Sponsors",
   "Use daisyUI from CDN": "Use daisyUI from CDN",
   "How to use daisyUI from a CDN?": "How to use daisyUI from a CDN?",
-  "etc.": "etc.",
-  "": ""
+  "etc.": "etc."
 }
