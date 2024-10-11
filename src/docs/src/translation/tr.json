@@ -178,5 +178,11 @@
   "Required or optional for themes": "Temalar için gerekli veya isteğe bağlı",
   "Example use": "Örnek kullanım",
   "How to use": "Nasıl kullanılır",
-  "Some daisyUI components come with modifier class names and that modifier class name will apply a color.": "Bazı daisyUI bileşenleri değiştirici sınıf adlarıyla gelir ve bu değiştirici sınıf adı bir renk uygular."
+  "Some daisyUI components come with modifier class names and that modifier class name will apply a color.": "Bazı daisyUI bileşenleri değiştirici sınıf adlarıyla gelir ve bu değiştirici sınıf adı bir renk uygular.",
+  "For example": "Örneğin",
+  "You can also use color names in utility classes just like Tailwind's original color names.": "Tailwind'in orijinal renk adlarında olduğu gibi yardımcı sınıflarda da renk adları kullanabilirsiniz.",
+  "These are utility classes that can be used with a color name:": "Bunlar bir renk adıyla kullanılabilen yardımcı sınıflardır:",
+  "So you can use <code>bg-primary</code>, <code>border-secondary</code>, etc.": "Yani <code>bg-primary</code> , <code>border-secondary</code> vb. kullanabilirsiniz.",
+  "daisyUI comes with a number of themes, which you can use with no extra effort.": "daisyUI, fazladan bir çaba harcamadan kullanabileceğiniz bir dizi tema ile birlikte gelir.",
+  "Each theme defines a set of colors which will be used on all daisyUI elements.": "Her tema, daisyUI'nin tüm öğelerinde kullanılacak bir renk kümesi tanımlar."
 }
